@@ -22,7 +22,7 @@
 ## 📊 Installation & Setup
 1. Clone the repository:
    ```sh
-   git clone [https://github.com/your-repo/creator-ai.git](https://github.com/sifatnotes/AI-Content-Generation-Web
+   git clone https://github.com/sifatnotes/AI-Content-Generation-Web
    cd creator-ai
    ```
 2. Install dependencies:
